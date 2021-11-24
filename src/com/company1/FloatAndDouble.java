@@ -11,5 +11,6 @@ public class FloatAndDouble {
         System.out.println(minDoubleValue);
         double maxDoublevalue = Double.MAX_VALUE;
         System.out.println(Double.MAX_VALUE);
+
     }
 }
