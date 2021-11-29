@@ -11,7 +11,7 @@ public class string {
         String paragraph ="My country name Bangladesh\n"
                 +"Our prime minister Sheikh Hasina\n"
                 +"\tOur home minister Khan Kamal\n"
-                +"Our president Abdul Hamid. ";
+                +"Our president Abdul Hamid . ";
         System.out.println(paragraph);
 
     }
